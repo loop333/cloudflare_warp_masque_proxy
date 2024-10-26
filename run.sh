@@ -1,5 +1,8 @@
 #!/bin/sh
 
+# to disable stdout log:
+#  -a stderr \
+
 docker run \
   --rm \
   --name warp_proxy \
