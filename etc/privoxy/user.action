@@ -1,0 +1,6 @@
+{ +forward-override{forward-socks5 127.0.0.1:40000 .} }
+.facebook.com
+.facebook.net
+.fbcdn.net
+.fbsbx.com
+.fb.com
